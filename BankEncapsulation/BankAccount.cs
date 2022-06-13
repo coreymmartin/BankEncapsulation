@@ -19,6 +19,8 @@ namespace BankEncapsulation
                 gotDep = double.TryParse(Console.ReadLine(), out dep);
             } while (!gotDep);
             balance += dep;
+            Console.WriteLine($"your new account balace is ${balance}\npress enter to continue\n");
+            Console.ReadLine();
         }
 
         public void Withdraw()
@@ -36,7 +38,12 @@ namespace BankEncapsulation
                 Console.WriteLine($"unable to withdraw ${with}, available balance: ${balance}");
             }
             else
+            {
                 balance -= with;
+                Console.WriteLine($"your new account balace is ${balance}");
+            }
+            Console.WriteLine("\npress enter to continue\n");
+            Console.ReadLine();
         }
 
         public double GetBalance()
