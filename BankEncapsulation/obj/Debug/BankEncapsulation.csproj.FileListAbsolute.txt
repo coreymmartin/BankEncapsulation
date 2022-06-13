@@ -1,0 +1,6 @@
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Users\corey\Desktop\csharp27\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
